@@ -1,4 +1,4 @@
-# Algoritmos-de-recorte
+# Algoritmos de recorte
 Laboratorio III - Computación gráfica 
 
 Juan David Cabrera <br>
